@@ -1,4 +1,4 @@
-# 🤖 AI Page Summarizer
+# 🤖 AI Web Summarizer using Cohere
 
 > **Transform any webpage into digestible insights with the power of artificial intelligence**
 
