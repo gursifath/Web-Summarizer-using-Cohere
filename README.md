@@ -209,8 +209,8 @@ API_ERRORS = {
 ### 🔄 **Development Workflow**
 ```bash
 # Clone and setup
-git clone https://github.com/your-username/ai-page-summarizer.git
-cd ai-page-summarizer
+git clone https://github.com/gursifath/Web-Summarizer-using-Cohere.git
+cd Web-Summarizer-using-Cohere
 
 # Development mode
 chrome://extensions/ → Load unpacked → Select folder
